@@ -1,0 +1,5 @@
+package com.tvc.soap.mocks;
+
+public class WireMockExt {
+
+}
